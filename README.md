@@ -62,3 +62,10 @@
         {arrayText.length > 0 && arrayText.map((text, index) => <div key={index}>{text}</div>)}
       </div>
     </div>
+    
+    
+    <meta name="title" property="og:title" content="" />
+    <meta name="description" property="og:description" content=""/>
+    <meta name="image" property="og:image" content="%PUBLIC_URL%/logo.png" /> 
+    <meta name="url" property="og:url" content="" />
+
