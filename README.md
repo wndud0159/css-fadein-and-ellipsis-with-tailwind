@@ -1,0 +1,1 @@
+# css-fadein-and-ellipsis-with-tailwind
